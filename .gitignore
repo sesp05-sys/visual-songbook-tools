@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+venv/
+
+# Java compiled
+*.class
+
+# Output & temp
+output/
+uploads/
+job_status.json
+songs.csv
+
+# Data files (templates, not source)
+*.vsb
+*.mdb
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Legacy
+.history.json
+
+# Backup files
+*.bak
+*.backup
+*~
